@@ -6,8 +6,14 @@ npm create cloudflare@latest
 npx wrangler deploy
 npx wrangler dev --remote
 npm install @cloudflare/ai
+npx wrangler d1
+
+npm i @cloudflare/wrangler -g  - game changer
+wrangler config
+
 
 
 
 
 ```
+create .env file for access tokens
