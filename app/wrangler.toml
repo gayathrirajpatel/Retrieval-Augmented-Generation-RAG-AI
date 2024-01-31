@@ -9,10 +9,7 @@ compatibility_date = "2023-12-18"
 # [vars]
 # MY_VARIABLE = "production_value"
 
-[vars]
-API_HOST = "workers.dev"
-API_ACCOUNT_ID = "028c5e22c8e56f1d035ab866c7bcd37b"
-SERVICE_X_DATA = { URL = "service-ai-api.dev.example", MY_ID = 123 }
+
 
 [ai]
 binding = "AI"
