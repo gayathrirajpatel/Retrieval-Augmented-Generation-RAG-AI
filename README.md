@@ -14,7 +14,6 @@ npm i @cloudflare/wrangler -g  - game changer
 
 wrangler secret put CLOUDFLARE_API_TOKEN
 
-EBH1Vdn_Q2nHNEfGU2gCn8ofu6olhoGlEtHHP0Xx
 
 
 
