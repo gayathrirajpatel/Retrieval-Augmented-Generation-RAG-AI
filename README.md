@@ -19,6 +19,10 @@ wrangler secret put CLOUDFLARE_API_TOKEN
 
 
 
+
+
+
+
 ```
 create .env file for access tokens
 
