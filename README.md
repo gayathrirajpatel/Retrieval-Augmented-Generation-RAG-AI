@@ -8,6 +8,9 @@ npx wrangler dev --remote
 npm install @cloudflare/ai
 npx wrangler d1
 
+
+h
+
 npm i @cloudflare/wrangler -g  -       game changer
 
 
